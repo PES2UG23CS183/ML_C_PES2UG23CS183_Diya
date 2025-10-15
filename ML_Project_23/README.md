@@ -1,4 +1,4 @@
-### Smart Grid Energy Forecasting using Neural Architecture Search (NAS)
+### **Smart Grid Energy Forecasting using Neural Architecture Search (NAS)**
 
 ## **Overview**
 

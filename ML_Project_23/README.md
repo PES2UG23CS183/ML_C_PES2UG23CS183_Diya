@@ -30,7 +30,6 @@ https://www.kaggle.com/datasets/mexwell/household-load-and-solar-generation
 
 git clone https://github.com/<your-username>/<repo-name>.git
 cd <repo-name>
-pip install -r requirements.txt
 
 **Step 2:** Prepare the dataset
 

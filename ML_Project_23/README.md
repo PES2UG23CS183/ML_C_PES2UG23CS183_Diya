@@ -28,9 +28,11 @@ https://www.kaggle.com/datasets/mexwell/household-load-and-solar-generation
 
 **Step 1:** Clone the repository and install dependencies
 
-**Download directly from GitHub**  
-1. Go to this folder in the repository: [ML_Project_23](https://github.com/PES2UG23CS183/ML_C_PES2UG23CS183_Diya/tree/main/ML_Project_23)  
-2. Click the green **Code → Download ZIP**, then extract it.
+**Download the whole repo as ZIP**
+
+1. In the repo, click the green code and download ZIP folder of this repo.
+2. Extract the ZIP folder.
+3. Navigate to ML_Project_23 inside the extracted folder and use it. 
 
 **Step 2:** Prepare the dataset
 

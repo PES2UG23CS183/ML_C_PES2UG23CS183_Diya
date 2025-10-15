@@ -26,23 +26,23 @@ https://www.kaggle.com/datasets/mexwell/household-load-and-solar-generation
 
 **Running the Project**
 
-Clone the repository and install dependencies
+Step 1: Clone the repository and install dependencies
 
 git clone https://github.com/<your-username>/<repo-name>.git
 cd <repo-name>
 pip install -r requirements.txt
 
-Prepare the dataset
+Step 2: Prepare the dataset
 
 If you have clean data (e.g., household_data_15min_clean.csv), place it in the project folder.
 If using raw data, run the preprocessing cells in the notebook to clean and format it.
 
-Run the notebooks
+Step 3: Run the notebooks
 
 Open Optuna NAS.ipynb to train and evaluate models (LSTM, CNN, Transformer) using Optuna.
 Run Hyperband approach.ipynb for comparison of optimization methods.
 
-View Results
+Step 4: View Results
 
 Trained models and scalers are saved in /models/.
 Evaluation metrics, Pareto front plots, and ensemble results will be displayed automatically.

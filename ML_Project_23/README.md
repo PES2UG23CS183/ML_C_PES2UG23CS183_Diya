@@ -20,7 +20,7 @@ Additionally, a Hyperband optimization approach is implemented for comparative a
 
 The dataset used in this project is “Household Load and Solar Generation” from Kaggle.
 It contains minute-level measurements of grid import/export and PV generation from residential smart meters.
-Due to its large size, the dataset is not hosted directly in this repository.
+Due to its large size, the dataset is not hosted directly in this repository. We used household_data_15min_raw.csv as our dataset in this project.
 Access it here:
 https://www.kaggle.com/datasets/mexwell/household-load-and-solar-generation
 

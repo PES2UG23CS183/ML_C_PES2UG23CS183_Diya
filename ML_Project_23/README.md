@@ -26,6 +26,7 @@ https://www.kaggle.com/datasets/mexwell/household-load-and-solar-generation
 
 ## **Running the Project**
 
+REQUIRE GPU ACCESS AS THE TRAINING PART TAKES VERY LONG TO COMPLETE DUE TO THE DATASET BEING TOO VAST 
 **Step 1:** Clone the repository and install dependencies
 
 **Option 1: Download the whole repo as ZIP**

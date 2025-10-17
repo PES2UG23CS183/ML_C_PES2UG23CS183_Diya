@@ -28,29 +28,29 @@ https://www.kaggle.com/datasets/mexwell/household-load-and-solar-generation
 
 REQUIRES GPU ACCESS AS THE TRAINING PART TAKES VERY LONG TO COMPLETE DUE TO THE DATASET BEING TOO VAST 
 
-**Step 1:** Obtaining access to the codes
+**Step 1: Obtaining access to the codes**
 
-**Option 1: Download the whole repo as ZIP**
+**Option 1:** Download the whole repo as ZIP
 
 1. In the repo, click the green code and download ZIP folder of this repo.
 2. Extract the ZIP folder.
 3. Navigate to ML_Project_23 inside the extracted folder and use it.
 
-**Option 2: Clone the entire repo**
+**Option 2:** Clone the entire repo
 1. git clone https://github.com/PES2UG23CS183/ML_C_PES2UG23CS183_Diya.git
 2. cd ML_C_PES2UG23CS183_Diya/ML_Project_23
 
-**Step 2:** Prepare the dataset
+**Step 2: Prepare the dataset**
 
 If you have clean data (e.g., household_data_15min_clean.csv), place it in the project folder.
 If using raw data, run the preprocessing cells in the notebook to clean and format it.
 
-**Step 3:** Run the notebooks
+**Step 3: Run the notebooks**
 
 Open Optuna NAS.ipynb to train and evaluate models (LSTM, CNN, Transformer) using Optuna.
 Run Hyperband approach.ipynb for comparison of optimization methods.
 
-**Step 4:** View Results
+**Step 4: View Results**
 
 Trained models and scalers are saved in /models/.
 Evaluation metrics, Pareto front plots, and ensemble results will be displayed automatically.

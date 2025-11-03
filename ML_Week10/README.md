@@ -1,4 +1,5 @@
-# Hangman AI — Hybrid Model using Hidden Markov Model (HMM) and Reinforcement Learning (Q-Learning)
+# ML Hackathon - Hackman
+# Hybrid Model using Hidden Markov Model (HMM) and Reinforcement Learning (Q-Learning)
 
 ## Overview
 This project presents an **AI-powered Hangman game** that learns to guess words intelligently by combining **Hidden Markov Models (HMM)** with **Reinforcement Learning (Q-Learning)**. The system predicts likely letters using statistical language modeling (HMM) and then optimizes its decision-making strategy through trial and error (RL). A **Streamlit web app** is also included for interactive gameplay where users can play against the trained AI.

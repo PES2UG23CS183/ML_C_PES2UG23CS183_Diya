@@ -7,7 +7,7 @@ This project presents an **AI-powered Hangman game** that learns to guess words 
 ## Team
 Developed by:  
 
-**Diya D Bhat** - [GitHub Repository](https://github.com/PES2UG23CS183/ML_C_PES2UG23CS183_Diya/tree/main/ML_Hackathon)
+**Diya D Bhat** - [GitHub Repository](https://github.com/PES2UG23CS183/ML_C_PES2UG23CS183_Diya/tree/main/ML_Hackathon)  
 **Dhanya Prabhu**  
 **Eshwar R A**  
 **Delisha Riyona Dsouza**
